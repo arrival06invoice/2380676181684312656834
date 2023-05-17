@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382235096709",
+    "project_id": "habib-jafar",
+    "storage_bucket": "habib-jafar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382235096709:android:3370d254379a6222a75bec",
+        "android_client_info": {
+          "package_name": "com.avivizain.habibjafarvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382235096709-3q27t4136g31cbmtvpu9u5i57oko4p7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaGg-5OSyLqBBhnpnAMAIAhz1nvSu3RDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382235096709-3q27t4136g31cbmtvpu9u5i57oko4p7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
